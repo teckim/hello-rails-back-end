@@ -43,6 +43,9 @@ $ cd hello-rails-back-end
 - GitHub: [@teckim](https://github.com/teckim)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/hakim-bhd/)
 
+## Links
+
+[React app (front-end)](https://github.com/teckim/hello-rails-front-end)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
